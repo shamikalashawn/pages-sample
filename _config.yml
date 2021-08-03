@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: My Experience Learning with CRDDS at CU Boulder
-email: shamika [dot] klassen [at] colorado [dot] edu
+email: shamika.klassen@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I have learned about Git, GitHub, and GitHub Pages from the CRDDS at CU Boulder.  This site shares a little bit about what I have learned.
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
