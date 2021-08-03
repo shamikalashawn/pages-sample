@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome to my Online Portfolio!
 
 
 #### Here are some example pages:
